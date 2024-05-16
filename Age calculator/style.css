@@ -1,0 +1,51 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+.div{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    flex-direction: column;
+    background:red;
+    text-align: start;
+}
+h1{
+color: wheat;
+margin-bottom: 2rem;
+text-transform: uppercase;
+ 
+}
+.cal{
+    background: gainsboro;
+    width: 20rem;
+  
+   padding: 20px;
+   border-radius: 10px;
+ 
+   
+
+}
+input{
+    width: 12rem;
+    height: 2rem;
+}
+button{
+    width: 4.5rem;
+    height: 2rem;
+   background:rgb(233, 233, 32);
+   border: none;
+}
+button:hover{
+    background-color:yellow;
+}
+p{
+    font-size: 1rem;
+    color: wheat;
+    font-weight: 700;
+    margin-top: 1rem;
+}
