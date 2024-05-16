@@ -34,7 +34,7 @@ Javascript, HTML, CSS...C/C++,DSA,TAILWIND,BOOTSTRAP,REACT.
 | PROJECT NAME           | LINKS                                                         |
 | ----------------- | ------------------------------------------------------------------ |
 | 1 TO-DO-LIST | (https://clinquant-nougat-230ac9.netlify.app/)  |
-|  | |
+| 2 AGE CALCULATOE |https://candid-treacle-35b73c.netlify.app/ |
 | 2 |  |
 |3 | |
 
